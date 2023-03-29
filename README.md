@@ -1,6 +1,9 @@
 ## Enigma Machine
 
 The Enigma Machine was a cipher machine used by the German military to encode and decode secret messages during World War II. This repository is a simulation of the Enigma Machine, including its history, how it works, the structure of the rotors, and the sheet of everyday state of rotors for Germany armies.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/109967486/228447420-9bd4de03-5b3b-4f6b-81d0-9c1c3f159606.jpg" alt="Description of the image" />
+</div>
 
 ## History of Enigma
 
@@ -14,7 +17,7 @@ The Enigma Machine works by using a series of rotors and a plugboard to scramble
 
 The Enigma Machine had three to five rotors that could be switched out to create different encryption patterns. Each rotor had an array of contacts on both sides, with a different wire connecting each contact on one side with a different contact on the other. The wires were arranged in a way that changed the electrical current's path between the contacts and thus changed the character that resulted. The different rotor combinations allowed for millions of potential encryption patterns.
 
-## Sheet of Everyday State of Rotors for Germany Armies
+## Monthly key list for the German Force
 
 The sheet of everyday state of rotors for Germany armies was a classified document that detailed the rotor settings for each day. This sheet was distributed to all German military units and was used to encode and decode messages. The sheet was changed daily, making it very difficult for the Allies to break the code.
 
