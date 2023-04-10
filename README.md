@@ -23,7 +23,7 @@ The sheet of everyday state of rotors for Germany armies was a classified docume
 
 ## Usage
 
-To use the Enigma Machine simulator, download the repository and open the `enigma.py` file in your Python environment. Use the `run` function to input a message, and the machine will output the encoded message.
+To use the Enigma Machine simulator, clone the repository and first open `todays_key_list.enigma.py` file in your Python environment and `run` it. this will make a file named `todays_key_list.enigma` which specifies the situation of rotors. then open the `enigma.py` file in your Python environment and run it. and the machine will output the encoded message.
 
 ## Contributing
 
