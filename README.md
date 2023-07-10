@@ -1,8 +1,8 @@
 ## Enigma Machine
 
-The Enigma Machine was a cipher machine used by the German military to encode and decode secret messages during World War II. This repository is a simulation of the Enigma Machine, including its history, how it works, the structure of the rotors, and the sheet of everyday state of rotors for Germany armies.
+The Enigma Machine was a cipher machine used by the German military to encode and decode secret messages during World War II. This repository is a simulation of the Enigma Machine, including its history, how it works, the structure of the rotors, and the sheet of the everyday state of rotors for German armies.
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/109967486/228447420-9bd4de03-5b3b-4f6b-81d0-9c1c3f159606.jpg" alt="Description of the image" />
+  <img src="https://user-images.githubusercontent.com/109967486/228447420-9bd4de03-5b3b-4f6b-81d0-9c1c3f159606.jpg" alt="Enigma machine" />
 </div>
 
 ## History of Enigma
